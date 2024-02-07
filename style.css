@@ -1,0 +1,15 @@
+#cambios {
+width: 100%;
+height: 300px;
+background-image: url("panda.jpg");
+background-repeat: no-repeat;
+}
+
+@media (max-width:600px){
+    #cambios {
+        width: 100%;
+        height: 1500px;
+        background-image: url("Celulares.jpg");
+        background-repeat: no-repeat;
+        }
+}
